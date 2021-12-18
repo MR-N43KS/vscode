@@ -12,6 +12,6 @@
 <a href="https://github.com/MR-N43KS/vscode"><img title="Recode" src="https://img.shields.io/badge/Recode-TEMAN:)-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/MR-N43KS/vscode)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/MR-N43KS/vscode)
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/MR-N43KS/vscode)
